@@ -1,0 +1,32 @@
+.flex{
+	display: flex;
+}
+.div1{
+	background-image: url(a7xRtcf2OFk.jpg);
+	display: flex;
+}
+a{
+	color: white;
+	margin-left: 50px;
+}
+.a1{
+	margin-left: 200px;
+}
+.caca{
+	background-image: url(Marvel.jpg_640x640.jpg);
+}
+.div2{
+	background-image: url(WP_Dark_Lord-2560x1440_00228.jpg);
+	height: 500px;
+	margin-top: 20px;
+}
+.div3{
+	height: 520px;
+	margin-top: 20px;
+}
+.img{
+	margin-left: 50px;
+}
+h1{
+	color: white;
+}
